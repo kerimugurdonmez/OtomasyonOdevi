@@ -4,24 +4,235 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bde53585-25ca-412b-9fc9-a5589b828809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OtomasyonOdevi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/default/default.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/default/java.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/default/user.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/env/firefox/browser.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/specs/example.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/driver/DriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/StepImplementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="bde53585-25ca-412b-9fc9-a5589b828809" name="Changes" comment="yedek">
+      <change afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-0bba720a-fb7b-4623-92a4-ac49ef477f98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-1b172a96-e635-4e91-854d-d63d01ca5fc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-1e19663b-27c9-440a-ab83-63af5a43f5a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-2621ac78-fcd9-4962-80d8-54c672adf776.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-274139fa-e60b-48dc-bece-cad0bf1539e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-28964096-a579-4e74-8f51-be6ff6c695e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-2ba57df4-d4b2-47bf-a824-645c169279bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-3027c047-90ca-4e3c-b781-408b24081311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-302ec3c7-5130-4518-bf27-41ea6b1e2d2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-4274cfc3-2ebd-4fa6-a34f-f53968edfff8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-4f926ce8-21e0-455b-a64a-3c7e69d603d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-64a72a5d-c2eb-4afa-aac2-b938cc693229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-6584aa36-8b9d-484c-9b5c-0787dfec7db6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-69891dff-0b39-4ab0-a11e-ab2068b92526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-69f22368-f012-41a3-8c51-67b6b24ec39f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-6cd31834-4b9f-44b4-9ecf-52da78a50504.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-6eb15ebb-a3d9-4b77-bc3d-2a9eb7ca9bfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-73a96c4e-a5e6-4508-b679-2904ca8b277c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-779d2929-2ee1-43c1-b8f6-865fc22e40a4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-7ff3f6ba-1146-46bb-b01d-66610983d7b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-821021c1-df40-43ac-9e20-f30f58b0edb0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-83bbe182-9351-4c61-93d3-c898729fae2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-849de60f-2fd4-4790-a2f3-f7313741cf80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-85e4b3b1-5c9f-43c2-9004-8e0b18216d87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-866a0933-c286-4f07-bc11-d2f840a095a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-8979ef96-1927-4c9e-befc-00c5fb1e1cd5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-8ae030fa-9f33-4e87-9b2d-d3833feca6f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-950fd90f-c929-445d-952f-ba313332d971.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-958d5651-e7cc-40df-891f-e0010828e01e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-9594d42d-baa9-423f-9832-094637a5b4fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-981591da-5b3e-46f8-9816-51e528327e28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-9c929a7f-af6b-4005-8246-f162a4b85431.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-a3ddb05d-9987-428a-9ee9-2ebfcd135bdc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-a7322b1d-ab18-47d6-91e7-baa9272d6efb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-b0003b99-7d2b-47ab-a4f8-997f6507dc5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-b3bb96a0-94fc-4d21-8e4b-e4c6382ca241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-ba830af3-9533-4357-b967-5390edb2b55e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-c0d4455b-78d0-46de-ac3d-6bf8a40db57d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d58c2dd6-f01d-4cf0-9e79-6edbab3a4c4f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d68ec897-591b-4f22-b49b-334187684408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d797ed45-7f70-4559-9803-2cd9d5f9a6e0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-da073454-d1dd-4d51-ad1c-ed488afc0c0e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-eeb468ec-3625-4fa4-a501-9d0b3cd9c388.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-f2e6d603-9c00-4a35-a9e2-cbda1949659c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-f799acea-d1ed-46eb-a363-cdc3d1591bb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-f892a260-a9e8-4db2-91b5-2f95ceab0d60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-ffc3f13f-69f9-4cff-ace0-73c9e8355b25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/10044-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/10092-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/10400-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/10536-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/10576-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/11076-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/11560-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/11624-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/12108-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/12396-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/12596-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/12600-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/12748-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/1276-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/13280-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/13528-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/13676-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/13844-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/13848-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/14284-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/14460-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/14496-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/14852-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/15424-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/15504-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/15592-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/15600-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/15776-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/16216-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/1652-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/16724-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/16960-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/17360-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/17636-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/17772-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/1828-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/18524-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/18628-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/18772-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/18824-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/18868-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/19272-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/19408-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/1976-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/19780-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/20400-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/20984-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/21412-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/22456-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2636-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2800-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/3604-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/3972-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/4172-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/6972-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7376-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7492-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7628-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/7992-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/8152-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/8276-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/8844-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/8992-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/9128-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/9324-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/9716-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/9976-java.exe.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/open-sans.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Bold/OpenSans-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/BoldItalic/OpenSans-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Italic/OpenSans-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Light/OpenSans-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/fonts/open-sans/Regular/OpenSans-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/Gauge-Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/gaugeLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-0bba720a-fb7b-4623-92a4-ac49ef477f98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-1b172a96-e635-4e91-854d-d63d01ca5fc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-1e19663b-27c9-440a-ab83-63af5a43f5a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-2621ac78-fcd9-4962-80d8-54c672adf776.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-274139fa-e60b-48dc-bece-cad0bf1539e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-28964096-a579-4e74-8f51-be6ff6c695e9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-2ba57df4-d4b2-47bf-a824-645c169279bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-3027c047-90ca-4e3c-b781-408b24081311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-302ec3c7-5130-4518-bf27-41ea6b1e2d2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-4274cfc3-2ebd-4fa6-a34f-f53968edfff8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-4f926ce8-21e0-455b-a64a-3c7e69d603d7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-64a72a5d-c2eb-4afa-aac2-b938cc693229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-6584aa36-8b9d-484c-9b5c-0787dfec7db6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-69891dff-0b39-4ab0-a11e-ab2068b92526.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-69f22368-f012-41a3-8c51-67b6b24ec39f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-6cd31834-4b9f-44b4-9ecf-52da78a50504.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-6eb15ebb-a3d9-4b77-bc3d-2a9eb7ca9bfc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-73a96c4e-a5e6-4508-b679-2904ca8b277c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-7ff3f6ba-1146-46bb-b01d-66610983d7b9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-821021c1-df40-43ac-9e20-f30f58b0edb0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-83bbe182-9351-4c61-93d3-c898729fae2c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-849de60f-2fd4-4790-a2f3-f7313741cf80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-866a0933-c286-4f07-bc11-d2f840a095a2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-8979ef96-1927-4c9e-befc-00c5fb1e1cd5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-8ae030fa-9f33-4e87-9b2d-d3833feca6f5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-950fd90f-c929-445d-952f-ba313332d971.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-958d5651-e7cc-40df-891f-e0010828e01e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-9594d42d-baa9-423f-9832-094637a5b4fc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-981591da-5b3e-46f8-9816-51e528327e28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-a3ddb05d-9987-428a-9ee9-2ebfcd135bdc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-a7322b1d-ab18-47d6-91e7-baa9272d6efb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-b0003b99-7d2b-47ab-a4f8-997f6507dc5b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-b3bb96a0-94fc-4d21-8e4b-e4c6382ca241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-ba830af3-9533-4357-b967-5390edb2b55e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-c0d4455b-78d0-46de-ac3d-6bf8a40db57d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-d58c2dd6-f01d-4cf0-9e79-6edbab3a4c4f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-d68ec897-591b-4f22-b49b-334187684408.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-d797ed45-7f70-4559-9803-2cd9d5f9a6e0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-da073454-d1dd-4d51-ad1c-ed488afc0c0e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-eeb468ec-3625-4fa4-a501-9d0b3cd9c388.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-f2e6d603-9c00-4a35-a9e2-cbda1949659c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-f799acea-d1ed-46eb-a363-cdc3d1591bb4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-f892a260-a9e8-4db2-91b5-2f95ceab0d60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-ffc3f13f-69f9-4cff-ace0-73c9e8355b25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/auto-complete.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/clipboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/js/search_index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/specs/Specs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/html-report/specs/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Constants/PageElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CommonStepDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/CommonStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/SearchPageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/example.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/Specs.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/driver/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/StepImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDef/HomePageSteps.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +242,25 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="yedek" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -55,15 +284,111 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kerim/IdeaProjects/gittigidiyorOtomasyonPOM&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kerim\IdeaProjects\OtomasyonOdevi\src\test\java\Base" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Base" />
+      <recent name="Constants" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gauge Execution.Get Started (2)">
+    <configuration name="Get Started (1)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Specs.spec:4" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-test" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get Started (2)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Specs.spec:4" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-test" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get Started (4)" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Specs.spec:4" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-test" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get Started" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Specs.spec:4" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-test" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Specs.spec" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/Specs.spec" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="gauge-test" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gauge Execution.Get Started (2)" />
+        <item itemvalue="Gauge Execution.Get Started (1)" />
+        <item itemvalue="Gauge Execution.Get Started" />
+        <item itemvalue="Gauge Execution.Get Started" />
+        <item itemvalue="Gauge Execution.Specs.spec" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,5 +402,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="yedek" />
+    <option name="LAST_COMMIT_MESSAGE" value="yedek" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/StepDef/SearchPageSteps.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Pages/CommonStepDefinition.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Base/BasePage.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Base/BasePage.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Base/BasePage.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

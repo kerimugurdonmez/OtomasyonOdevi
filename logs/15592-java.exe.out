@@ -1,0 +1,48 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+{"logLevel":"debug","message":"gauge-java took 2579milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 2579"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 63456"}
+{"logLevel":"info","message":"Listening on port:63456"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.setHomePage' and 'StepDef.HomePageSteps.setHomePage'"}
+{"logLevel":"debug","message":"Found Open the Network homepage in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.gotoGetStartedPage' and 'StepDef.HomePageSteps.gotoGetStartedPage'"}
+{"logLevel":"debug","message":"Found Go to Gauge Get Started Page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.close' and 'StepDef.HomePageSteps.close'"}
+{"logLevel":"debug","message":"Found Close the cookie pop-up in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.search' and 'StepDef.HomePageSteps.search'"}
+{"logLevel":"debug","message":"Found Search {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.ensureInstallationInstructionsAreAvailable' and 'StepDef.HomePageSteps.ensureInstallationInstructionsAreAvailable'"}
+{"logLevel":"debug","message":"Found Ensure installation instructions are available in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.SearchPageSteps.click' and 'StepDef.SearchPageSteps.click'"}
+{"logLevel":"debug","message":"Found Find and click the show more button in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGo to Gauge Get Started Page : public void gotoGetStartedPage()"}
+{"logLevel":"debug","message":"\tSearch {} : public void search(String product)"}
+{"logLevel":"debug","message":"\tFind and click the show more button : public void click()"}
+{"logLevel":"debug","message":"\tOpen the Network homepage : public void setHomePage()"}
+{"logLevel":"debug","message":"\tEnsure installation instructions are available : public void ensureInstallationInstructionsAreAvailable()"}
+{"logLevel":"debug","message":"\tClose the cookie pop-up : public void close()"}
+Starting Microsoft Edge WebDriver 108.0.1462.46 (d29728ee681767b8b70995c207c659e2b46c2e92) on port 15633
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Ara 14, 2022 9:42:12 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 107
+{"logLevel":"debug","message":"Executing 'Open the Network homepage' using 'class StepDef.HomePageSteps.setHomePage"}
+{"logLevel":"debug","message":"Executing 'Close the cookie pop-up' using 'class StepDef.HomePageSteps.close"}
+{"logLevel":"debug","message":"Executing 'Search {}' using 'class StepDef.HomePageSteps.search"}
+{"logLevel":"debug","message":"Executing 'Find and click the show more button' using 'class StepDef.SearchPageSteps.click"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
