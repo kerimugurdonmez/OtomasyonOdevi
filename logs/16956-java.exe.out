@@ -1,0 +1,56 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+{"logLevel":"debug","message":"gauge-java took 3300milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 3300"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 59080"}
+{"logLevel":"info","message":"Listening on port:59080"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'StepDef.ProductPageSteps.size' and 'StepDef.ProductPageSteps.size'"}
+{"logLevel":"debug","message":"Found Choose random size and add to cart in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.ProductPageSteps.cart' and 'StepDef.ProductPageSteps.cart'"}
+{"logLevel":"debug","message":"Found Click the Go to Cart button in the lower right corner. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.SearchPageSteps.scroll' and 'StepDef.SearchPageSteps.scroll'"}
+{"logLevel":"debug","message":"Found Find and click the show more button in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.navigateUrl' and 'StepDef.HomePageSteps.navigateUrl'"}
+{"logLevel":"debug","message":"Found Navigate To {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.CommonSteps.check' and 'StepDef.CommonSteps.check'"}
+{"logLevel":"debug","message":"Found Check that the size and price information of the product is correct in the basket. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.close' and 'StepDef.HomePageSteps.close'"}
+{"logLevel":"debug","message":"Found Close the cookie pop-up in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.search' and 'StepDef.HomePageSteps.search'"}
+{"logLevel":"debug","message":"Found Search {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'StepDef.SearchPageSteps.click' and 'StepDef.SearchPageSteps.click'"}
+{"logLevel":"debug","message":"Found Click on the first discounted product in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tClick on the first discounted product : public void click() throws InterruptedException"}
+{"logLevel":"debug","message":"\tSearch {} : public void search(String product)"}
+{"logLevel":"debug","message":"\tFind and click the show more button : public void scroll()"}
+{"logLevel":"debug","message":"\tClick the Go to Cart button in the lower right corner. : public void cart()"}
+{"logLevel":"debug","message":"\tNavigate To {} : public void navigateUrl(String key)"}
+{"logLevel":"debug","message":"\tChoose random size and add to cart : public void size() throws InterruptedException"}
+{"logLevel":"debug","message":"\tClose the cookie pop-up : public void close()"}
+{"logLevel":"debug","message":"\tCheck that the size and price information of the product is correct in the basket. : public void check() throws InterruptedException"}
+Starting Microsoft Edge WebDriver 108.0.1462.54 (c2998c8c661724d797c22f48cf555a2bef5029ee) on port 21826
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+Ara 18, 2022 5:55:28 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 108, so returning the closest version found: 107
+{"logLevel":"debug","message":"Executing 'Navigate To {}' using 'class StepDef.HomePageSteps.navigateUrl"}
+{"logLevel":"debug","message":"Executing 'Close the cookie pop-up' using 'class StepDef.HomePageSteps.close"}
+{"logLevel":"debug","message":"Executing 'Search {}' using 'class StepDef.HomePageSteps.search"}
+{"logLevel":"debug","message":"Executing 'Find and click the show more button' using 'class StepDef.SearchPageSteps.scroll"}
+{"logLevel":"debug","message":"Executing 'Click on the first discounted product' using 'class StepDef.SearchPageSteps.click"}
+{"logLevel":"debug","message":"Executing 'Choose random size and add to cart' using 'class StepDef.ProductPageSteps.size"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

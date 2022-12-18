@@ -9,7 +9,7 @@ SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
 {"logLevel":"debug","message":"started gRPC server on port 51142"}
 {"logLevel":"info","message":"Listening on port:51142"}
 {"logLevel":"debug","message":"Scanning packages for steps"}
-{"logLevel":"debug","message":"Comparing 'StepDef.CommonStepDefinitions.implementation1' and 'StepDef.CommonStepDefinitions.implementation1'"}
+{"logLevel":"debug","message":"Comparing 'StepDef.CommonSteps.implementation1' and 'StepDef.CommonSteps.implementation1'"}
 {"logLevel":"debug","message":"Found Click Element ceket in current project scope."}
 {"logLevel":"debug","message":"Comparing 'StepDef.HomePageSteps.setHomePage' and 'StepDef.HomePageSteps.setHomePage'"}
 {"logLevel":"debug","message":"Found Open the Network homepage in current project scope."}
