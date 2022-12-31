@@ -9,12 +9,16 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+import java.util.Random;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
 public class BasePage extends Driver {
 
     WebDriver driver=getDriver();
+    WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(13));
+
+    public static Random random = new Random();
 
     public void goToUrl(String key) {
         driver.navigate().to(key);
@@ -23,7 +27,6 @@ public class BasePage extends Driver {
     }
 
     public WebElement findElement(By by) {
-        WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(13));
         wait.until(ExpectedConditions.presenceOfElementLocated(by));
         return driver.findElement(by);
     }
@@ -34,14 +37,21 @@ public class BasePage extends Driver {
     }
 
     public void hoverElement(By by) {
-        WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(13));
-      //  driver.actions.moveToElement(findElement(by)).build().perform();
+        actions.moveToElement(findElement(by)).click().build().perform();
     }
 
     public void sendKeys(By by, CharSequence text) {
         WebElement webElement = findElement(by);
-        WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(13));
         wait.until(ExpectedConditions.elementToBeClickable(webElement)).sendKeys(text, Keys.ENTER);
     }
+
+    public WebElement findElements(By by)
+    {
+        WebDriverWait wait= new WebDriverWait(driver,Duration.ofSeconds(13));
+        wait.until(ExpectedConditions.presenceOfElementLocated(by));
+        return (WebElement) driver.findElements(by);
+    }
+
+
 
 }

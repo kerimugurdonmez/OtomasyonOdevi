@@ -18,4 +18,12 @@ public class HomePage extends BasePage {
         Driver.driver.findElement(By.xpath("//*[@id=\"search\"]")).sendKeys("Ceket",Keys.ENTER);
     }
 
+    public void clickTheCartIcon() {
+        clickElement(PageElements.MYCARTICON);
+    }
+
+    public void removeProduct(){
+        clickElement(PageElements.REMOVE);
+        clickElement(null);
+    }
 }

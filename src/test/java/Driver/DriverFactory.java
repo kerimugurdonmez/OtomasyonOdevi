@@ -14,7 +14,7 @@ public class DriverFactory {
     public static WebDriver driverGetir() {
 
         String browser = System.getenv("BROWSER");
-        browser = (browser == null) ? "EDGE": browser;
+        browser = (browser == null) ? "CHROME": browser;
 
         switch (browser) {
             case "EDGE":

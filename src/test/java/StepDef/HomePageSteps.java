@@ -9,8 +9,7 @@ import org.openqa.selenium.Keys;
 public class HomePageSteps extends HomePage {
 
     @Step("Navigate To <Url>")
-    public void navigateUrl(String key)
-    {
+    public void navigateUrl(String key) {
         goToUrl(key);
     }
 
@@ -20,9 +19,18 @@ public class HomePageSteps extends HomePage {
     }
 
     @Step("Search <product>")
-    public void search(String product)
-    {
-     searchTheProduct();
+    public void search(String product) {
+        searchTheProduct();
     }
 
+    @Step("Click my cart icon")
+    public void icon() {
+        clickTheCartIcon();
+    }
+
+    @Step("Remove product from cart")
+    public void remove() {
+        removeProduct();
+
+    }
 }

@@ -11,4 +11,8 @@ Get Started
 * Click on the first discounted product
 * Choose random size and add to cart
 * Click the Go to Cart button in the lower right corner.
-* Check that the size and price information of the product is correct in the basket.
+* Click the continue button.
+* Enter user information and login.
+* Return to home page
+* Click my cart icon
+* Remove product from cart
