@@ -1,10 +1,8 @@
 package Base;
 
-import Constants.PageElements;
 import Driver.Driver;
 import com.thoughtworks.gauge.Gauge;
 import org.openqa.selenium.*;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 

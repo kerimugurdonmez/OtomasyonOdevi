@@ -5,73 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde53585-25ca-412b-9fc9-a5589b828809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-0929bc09-77de-45a8-a2c7-2ef233173405.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-36aa7547-550e-4d24-845b-58be17eb2ce9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-4b630485-4410-4d40-9354-15d3ac088d7b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-4de56f8b-0c34-4641-a17c-f1ef267976df.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-5cd837c5-50e5-4de8-bb16-878bc0052a26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-6289c9a2-3e7e-4c57-bce4-12dde9ce43dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-9b8090ab-3e2f-4ce6-b7c6-5eec589b145e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-a2360869-24a5-4844-8652-de0a8ba193a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-c1721eea-b52d-449a-a8da-78ad059274a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d40c0737-827f-4959-809d-cd94e7491474.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-d6e875bc-9162-47c5-ae23-aa49f45f7082.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-df18fcf9-238f-400a-b45c-c833ccdafcb5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gauge/screenshots/screenshot-fbac2eb7-d2e9-4ef1-97c9-8e01d4d97219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/10100-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/10996-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/13952-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/16124-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/1648-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/20652-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/20876-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/21888-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/22076-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/23184-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/23528-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/3064-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/4536-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/4596-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/4832-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/5852-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/9876-java.exe.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-0929bc09-77de-45a8-a2c7-2ef233173405.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-36aa7547-550e-4d24-845b-58be17eb2ce9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-4b630485-4410-4d40-9354-15d3ac088d7b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-4de56f8b-0c34-4641-a17c-f1ef267976df.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-5cd837c5-50e5-4de8-bb16-878bc0052a26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-6289c9a2-3e7e-4c57-bce4-12dde9ce43dd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-9b8090ab-3e2f-4ce6-b7c6-5eec589b145e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-a2360869-24a5-4844-8652-de0a8ba193a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-c1721eea-b52d-449a-a8da-78ad059274a0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-d40c0737-827f-4959-809d-cd94e7491474.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-d6e875bc-9162-47c5-ae23-aa49f45f7082.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-df18fcf9-238f-400a-b45c-c833ccdafcb5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/html-report/images/screenshot-fbac2eb7-d2e9-4ef1-97c9-8e01d4d97219.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/Deneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/CheckoutPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepDef/LoginPageSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/userLoginInfo.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/executionStatus.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/failures.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" afterPath="$PROJECT_DIR$/.gauge/lastRunCmd.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/api.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/gauge.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reports/html-report/specs/Specs.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/specs/Specs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/specs/Specs.spec" beforeDir="false" afterPath="$PROJECT_DIR$/specs/Specs.spec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Base/BasePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Constants/PageElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Constants/PageElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Driver/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Driver/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/CartPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/ProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/SearchPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDef/CartPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDef/CartPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDef/HomePageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDef/HomePageSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Pages/Deneme.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +76,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kerim/IdeaProjects/OtomasyonOdevi/src/test/resources&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kerim/IdeaProjects/OtomasyonOdevi&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -258,24 +202,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671375956934</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lastest">
+      <created>1672500207398</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672500207398</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="yedek" />
     <MESSAGE value="çalışan1" />
-    <option name="LAST_COMMIT_MESSAGE" value="çalışan1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Pages/CheckoutPage.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Lastest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lastest" />
   </component>
 </project>

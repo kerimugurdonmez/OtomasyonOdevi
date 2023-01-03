@@ -2297,3 +2297,112 @@
 31-12-2022 18:23:06.671 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter user information and login."  parameterizedStepValue:"Enter user information and login."}}
 31-12-2022 18:23:06.675 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Return to home page"}
 31-12-2022 18:23:06.676 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Return to home page"  parameterizedStepValue:"Return to home page"}}
+01-01-2023 17:46:01.201 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+01-01-2023 17:46:01.214 [Gauge] [INFO] Initializing specs cache with 1 specs
+01-01-2023 17:46:01.214 [Gauge] [DEBUG] Adding specs from C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs\Specs.spec
+01-01-2023 17:46:01.214 [Gauge] [INFO] Initializing steps cache with 1 steps
+01-01-2023 17:46:01.214 [Gauge] [INFO] Gauge daemon initialized and listening on port: 61115
+01-01-2023 17:46:01.222 [Gauge] [DEBUG] Watching directory: C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs
+01-01-2023 17:46:01.224 [Gauge] [DEBUG] Found 1 files
+01-01-2023 18:07:45.080 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Close the cookie pop-up"}
+01-01-2023 18:07:45.081 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Close the cookie pop-up"  parameterizedStepValue:"Close the cookie pop-up"}}
+01-01-2023 18:07:45.094 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search <product>"}
+01-01-2023 18:07:45.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <product>"  parameters:"product"}}
+01-01-2023 18:07:45.103 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click my cart icon"}
+01-01-2023 18:07:45.103 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click my cart icon"  parameterizedStepValue:"Click my cart icon"}}
+01-01-2023 18:07:45.108 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Remove product from cart"}
+01-01-2023 18:07:45.108 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Remove product from cart"  parameterizedStepValue:"Remove product from cart"}}
+01-01-2023 18:07:45.128 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To <Url>"}
+01-01-2023 18:07:45.129 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <Url>"  parameters:"Url"}}
+01-01-2023 18:07:45.152 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To \"https://www.network.com.tr/\""}
+01-01-2023 18:07:45.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <https://www.network.com.tr/>"  parameters:"https://www.network.com.tr/"}}
+01-01-2023 18:07:45.153 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search \"Ceket\""}
+01-01-2023 18:07:45.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <Ceket>"  parameters:"Ceket"}}
+01-01-2023 18:07:45.153 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Find and click the show more button"}
+01-01-2023 18:07:45.153 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Find and click the show more button"  parameterizedStepValue:"Find and click the show more button"}}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on the first discounted product"}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on the first discounted product"  parameterizedStepValue:"Click on the first discounted product"}}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Choose random size and add to cart"}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Choose random size and add to cart"  parameterizedStepValue:"Choose random size and add to cart"}}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the Go to Cart button in the lower right corner."}
+01-01-2023 18:07:45.154 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the Go to Cart button in the lower right corner."  parameterizedStepValue:"Click the Go to Cart button in the lower right corner."}}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the continue button."}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the continue button."  parameterizedStepValue:"Click the continue button."}}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter user information and login."}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter user information and login."  parameterizedStepValue:"Enter user information and login."}}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Return to home page"}
+01-01-2023 18:07:45.155 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Return to home page"  parameterizedStepValue:"Return to home page"}}
+03-01-2023 05:28:36.652 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2023 05:28:36.653 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-01-2023 05:28:36.654 [Gauge] [DEBUG] Adding specs from C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs\Specs.spec
+03-01-2023 05:28:36.654 [Gauge] [INFO] Initializing steps cache with 1 steps
+03-01-2023 05:28:36.654 [Gauge] [INFO] Gauge daemon initialized and listening on port: 51118
+03-01-2023 05:28:36.675 [Gauge] [DEBUG] Watching directory: C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs
+03-01-2023 05:28:36.675 [Gauge] [DEBUG] Found 1 files
+03-01-2023 05:28:46.411 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To <Url>"}
+03-01-2023 05:28:46.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <Url>"  parameters:"Url"}}
+03-01-2023 05:28:46.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Close the cookie pop-up"}
+03-01-2023 05:28:46.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Close the cookie pop-up"  parameterizedStepValue:"Close the cookie pop-up"}}
+03-01-2023 05:28:46.804 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search <product>"}
+03-01-2023 05:28:46.804 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <product>"  parameters:"product"}}
+03-01-2023 05:28:46.826 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click my cart icon"}
+03-01-2023 05:28:46.826 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click my cart icon"  parameterizedStepValue:"Click my cart icon"}}
+03-01-2023 05:28:46.839 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Remove product from cart"}
+03-01-2023 05:28:46.839 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Remove product from cart"  parameterizedStepValue:"Remove product from cart"}}
+03-01-2023 05:28:47.006 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To \"https://www.network.com.tr/\""}
+03-01-2023 05:28:47.007 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <https://www.network.com.tr/>"  parameters:"https://www.network.com.tr/"}}
+03-01-2023 05:28:47.015 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search \"Ceket\""}
+03-01-2023 05:28:47.015 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <Ceket>"  parameters:"Ceket"}}
+03-01-2023 05:28:47.040 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Find and click the show more button"}
+03-01-2023 05:28:47.040 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Find and click the show more button"  parameterizedStepValue:"Find and click the show more button"}}
+03-01-2023 05:28:47.041 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on the first discounted product"}
+03-01-2023 05:28:47.045 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on the first discounted product"  parameterizedStepValue:"Click on the first discounted product"}}
+03-01-2023 05:28:47.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Choose random size and add to cart"}
+03-01-2023 05:28:47.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Choose random size and add to cart"  parameterizedStepValue:"Choose random size and add to cart"}}
+03-01-2023 05:28:47.055 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the Go to Cart button in the lower right corner."}
+03-01-2023 05:28:47.055 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the Go to Cart button in the lower right corner."  parameterizedStepValue:"Click the Go to Cart button in the lower right corner."}}
+03-01-2023 05:28:47.061 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the continue button."}
+03-01-2023 05:28:47.061 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the continue button."  parameterizedStepValue:"Click the continue button."}}
+03-01-2023 05:28:47.066 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter user information and login."}
+03-01-2023 05:28:47.066 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter user information and login."  parameterizedStepValue:"Enter user information and login."}}
+03-01-2023 05:28:47.069 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Return to home page"}
+03-01-2023 05:28:47.069 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Return to home page"  parameterizedStepValue:"Return to home page"}}
+03-01-2023 05:28:49.805 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that the size and price information of the product is correct in the basket."}
+03-01-2023 05:28:49.806 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that the size and price information of the product is correct in the basket."  parameterizedStepValue:"Check that the size and price information of the product is correct in the basket."}}
+03-01-2023 08:22:05.971 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+03-01-2023 08:22:06.045 [Gauge] [INFO] Initializing specs cache with 1 specs
+03-01-2023 08:22:06.045 [Gauge] [DEBUG] Adding specs from C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs\Specs.spec
+03-01-2023 08:22:06.045 [Gauge] [INFO] Initializing steps cache with 1 steps
+03-01-2023 08:22:06.048 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50641
+03-01-2023 08:22:06.062 [Gauge] [DEBUG] Watching directory: C:\Users\kerim\IdeaProjects\OtomasyonOdevi\specs
+03-01-2023 08:22:06.062 [Gauge] [DEBUG] Found 1 files
+03-01-2023 08:22:51.218 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To \"https://www.network.com.tr/\""}
+03-01-2023 08:22:51.219 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <https://www.network.com.tr/>"  parameters:"https://www.network.com.tr/"}}
+03-01-2023 08:22:52.010 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Return to home page"}
+03-01-2023 08:22:52.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Return to home page"  parameterizedStepValue:"Return to home page"}}
+03-01-2023 08:22:52.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Check that the size and price information of the product is correct in the basket."}
+03-01-2023 08:22:52.011 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Check that the size and price information of the product is correct in the basket."  parameterizedStepValue:"Check that the size and price information of the product is correct in the basket."}}
+03-01-2023 08:22:52.011 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Find and click the show more button"}
+03-01-2023 08:22:52.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Find and click the show more button"  parameterizedStepValue:"Find and click the show more button"}}
+03-01-2023 08:22:52.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click on the first discounted product"}
+03-01-2023 08:22:52.012 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click on the first discounted product"  parameterizedStepValue:"Click on the first discounted product"}}
+03-01-2023 08:22:52.012 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the continue button."}
+03-01-2023 08:22:52.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the continue button."  parameterizedStepValue:"Click the continue button."}}
+03-01-2023 08:22:52.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Choose random size and add to cart"}
+03-01-2023 08:22:52.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Choose random size and add to cart"  parameterizedStepValue:"Choose random size and add to cart"}}
+03-01-2023 08:22:52.013 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click the Go to Cart button in the lower right corner."}
+03-01-2023 08:22:52.013 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click the Go to Cart button in the lower right corner."  parameterizedStepValue:"Click the Go to Cart button in the lower right corner."}}
+03-01-2023 08:22:52.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Enter user information and login."}
+03-01-2023 08:22:52.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Enter user information and login."  parameterizedStepValue:"Enter user information and login."}}
+03-01-2023 08:22:52.014 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Navigate To <Url>"}
+03-01-2023 08:22:52.014 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Navigate To {}"  parameterizedStepValue:"Navigate To <Url>"  parameters:"Url"}}
+03-01-2023 08:22:52.042 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Close the cookie pop-up"}
+03-01-2023 08:22:52.042 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Close the cookie pop-up"  parameterizedStepValue:"Close the cookie pop-up"}}
+03-01-2023 08:22:52.047 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search \"Ceket\""}
+03-01-2023 08:22:52.047 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <Ceket>"  parameters:"Ceket"}}
+03-01-2023 08:22:52.049 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Search <product>"}
+03-01-2023 08:22:52.050 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Search {}"  parameterizedStepValue:"Search <product>"  parameters:"product"}}
+03-01-2023 08:22:52.070 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Click my cart icon"}
+03-01-2023 08:22:52.071 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Click my cart icon"  parameterizedStepValue:"Click my cart icon"}}
+03-01-2023 08:22:52.073 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Remove product from cart"}
+03-01-2023 08:22:52.074 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Remove product from cart"  parameterizedStepValue:"Remove product from cart"}}
